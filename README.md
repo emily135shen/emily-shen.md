@@ -1,5 +1,5 @@
-#where I grew up:
+**where I grew up:** New Zealand, Auckland
 
-#where my family is from:
+**where my family is from:** China
 
-#my name: 
+**MY Nname:** Emily Shen
